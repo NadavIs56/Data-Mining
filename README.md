@@ -7,7 +7,8 @@
 ### <p align ="center"> Implemented using: </p>
 <p align ="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="32" height="32" /></a>
- <a href="https://jupyter.org/" target="_blank" rel="noreferrer">   <img src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" width="32" height="32" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">   <img src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" width="32" height="32" /></a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">   <img src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange.png" width="32" height="32" /></a>  
  </p>
 
 ## ⚙️ Technologies and Packages 📦 <p/>
