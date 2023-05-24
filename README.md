@@ -28,6 +28,7 @@ The project is structured into several Python files, each responsible for specif
 
  -  Normalization.py: Handles normalization based on the user's selection in the GUI interface. The options include Z-Score, Min-Max, and Decimal Scaling.
 <br> 
+
 ![Image Caption](Project Dependencies Diagram.svg)
 
 ## 📈 Exploratory Data Analysis and Experimentation 🔬
