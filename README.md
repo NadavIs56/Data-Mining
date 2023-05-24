@@ -27,7 +27,10 @@ The project is structured into several Python files, each responsible for specif
  -  Discretization.py: This script performs discretization based on the user's choice in the GUI interface. The options include pandas equal frequency, equal width, and entropy-based discretization, along with our implementations of equal frequency and width discretization.
 
  -  Normalization.py: Handles normalization based on the user's selection in the GUI interface. The options include Z-Score, Min-Max, and Decimal Scaling.
-<br>
+<br> 
+| ![Project Dependencies Diagram.svg](https://github.com/NadavIs56/Data-Mining/blob/3ca5f1f0af842f31570e75cd3105268e8ea0dff1/Project%20Dependencies%20Diagram.svg) | 
+|:--:| 
+| *Project Dependencies Diagram* |
 
 ## 📈 Exploratory Data Analysis and Experimentation 🔬
 Our analysis includes a comprehensive EDA of the data, followed by running various classification and clustering models. This process includes testing accuracy, precision, recall, F-measure, and creating a confusion matrix. All the experimentation, results, visualizations, and discussions are compiled in a PDF file using Jupyter Notebook.
