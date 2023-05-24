@@ -28,7 +28,7 @@ The project is structured into several Python files, each responsible for specif
 
  -  Normalization.py: Handles normalization based on the user's selection in the GUI interface. The options include Z-Score, Min-Max, and Decimal Scaling.
 <br> 
-| ![Project Dependencies Diagram.svg](https://github.com/NadavIs56/Data-Mining/blob/3ca5f1f0af842f31570e75cd3105268e8ea0dff1/Project%20Dependencies%20Diagram.svg) | 
+| ![Project Dependencies Diagram.svg](https://github.com/NadavIs56/Data-Mining/blob/main/Project%20Dependencies%20Diagram.svg) | 
 |:--:| 
 | *Project Dependencies Diagram* |
 
