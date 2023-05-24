@@ -10,6 +10,7 @@ pandas
 scipy
 sklearn
 The project is written in Python and utilizes several key Python libraries for data analysis and machine learning, such as pandas, sklearn, scipy, and easygui for creating a simple GUI. The details about the project structure are listed below:
+
 <br>
 
 ## 📁 Project Structure 📚
