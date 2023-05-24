@@ -1,4 +1,3 @@
-# Data-Mining
 # <p align="center"> 🧮 Data Mining EDA Project 🧮 </p>
 
 ## <p align="center"> This repository contains an exciting project conducted as part of a "Data Mining" course. The project encompasses the building of a data classification and clustering system, followed by EDA - Exploratory Data Analysis, and is concluded with the presentation of the results. This ReadMe file provides an outline of the project structure, modules, and methods used, along with the technical requirements needed to successfully run the project.</p>
