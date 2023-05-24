@@ -28,7 +28,7 @@ The project is structured into several Python files, each responsible for specif
 
  -  Normalization.py: Handles normalization based on the user's selection in the GUI interface. The options include Z-Score, Min-Max, and Decimal Scaling.
 <br> 
-![Image Caption](https://github.com/NadavIs56/Data-Mining/blob/6c4bfa390a1c9e346e052c04f94d626f07555241/Project%20Dependencies%20Diagram.svg)
+![Image Caption](Project Dependencies Diagram.svg)
 
 ## 📈 Exploratory Data Analysis and Experimentation 🔬
 Our analysis includes a comprehensive EDA of the data, followed by running various classification and clustering models. This process includes testing accuracy, precision, recall, F-measure, and creating a confusion matrix. All the experimentation, results, visualizations, and discussions are compiled in a PDF file using Jupyter Notebook.
