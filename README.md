@@ -33,6 +33,7 @@ The project is structured into several Python files, each responsible for specif
 Our analysis includes a comprehensive EDA of the data, followed by running various classification and clustering models. This process includes testing accuracy, precision, recall, F-measure, and creating a confusion matrix. All the experimentation, results, visualizations, and discussions are compiled in a PDF file using Jupyter Notebook.
 <br>
 For each experiment, initial preprocessing steps are carried out, most of which are based on input from the user, including handling missing data, data normalization, discretization, and model selection. The processed data and built models are saved as CSV and pickle/joblib files respectively.
+
 <br>
 
 ## 📊 Results 📝
@@ -41,6 +42,7 @@ The performance of our models is measured based on several evaluation metrics su
 
 ## 💡 Conclusion and Future Work 🔮
 After rigorous experimentation and analysis, the project culminates in discussing the results and drawing meaningful conclusions. The project adheres to the best coding practices, including extensive code documentation and logical organization of functions, classes, and modules.
+
 <br>
 
 ## 🎯 Tasks 📋
@@ -53,6 +55,7 @@ In this project, we perform various tasks such as:
  -- Running the models on training and test datasets.
  -- Evaluating model performance and reporting.
 The dataset used in the project contains both continuous and categorical features, and records with missing values.
+
 <br>
 
 ## <p align="center"> Your contribution and feedback are highly appreciated. Please feel free to fork, star or raise issues. Happy Coding! 💻🎉 </p>
